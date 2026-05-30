@@ -37,4 +37,4 @@ Initial focus:
 ## Links
 
 - Website: https://descry.app
-- LinkedIn: https://www.linkedin.com/company/descry-technologies
+- LinkedIn: https://www.linkedin.com/company/descryapp
